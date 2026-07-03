@@ -1,0 +1,6 @@
+- Improved default key binds
+- Mod added Advancement Plaques
+- Mods added EMI, EMI Enchanting, EMI Loot
+- Mod added Controlling
+- Mod added Enhanced Celestials
+- Resourcepacks added Catppuccin UI
