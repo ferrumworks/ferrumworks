@@ -1,0 +1,54 @@
+services:
+  minecraft:
+    image: 'itzg/minecraft-server:java17'
+    ports:
+      - '25565:25565'
+    environment:
+      - SERVICE_URL_DYNMAP_8123
+      - EULA=TRUE
+      - MODPACK_PLATFORM=AUTO_CURSEFORGE
+      - 'CF_API_KEY=${CF_API_KEY:?}'
+      - CF_SLUG=ferrumworks
+      - 'CF_MODPACK_ZIP=/modpacks/Ferrum Works-0.4.0.zip'
+      - MAX_PLAYERS=2147483647
+      - MEMORY=16384M
+      - 'MOTD=Official Ferrum Works Server'
+      - 'ICON=https://media.forgecdn.net/avatars/thumbnails/1897/942/64/64/639186255278993448.png'
+      - DIFFICULTY=hard
+      - 'OPS=${OPS:-}'
+      - PAUSE_WHEN_EMPTY_SECONDS=300
+      - PLAYER_IDLE_TIMEOUT=60
+      - ALLOW_FLIGHT=true
+      - LOG_IPS=true
+      - ENABLE_WHITELIST=true
+      - 'WHITELIST=${WHITELIST:-}'
+      - MAX_WORLD_SIZE=20000
+      - PVP=false
+    volumes:
+      - 'minecraft-data:/data'
+      - './modpacks:/modpacks'
+    entrypoint:
+      - sh
+      - '-c'
+      - "sed -Ei 's|^#?publicURL:.*|publicURL: '\"${SERVICE_URL_DYNMAP}\"'|' ./dynmap/configuration.txt\nexec /image/scripts/start\n"
+    healthcheck:
+      test:
+        - CMD
+        - /usr/local/bin/mc-monitor
+        - status
+        - '--host'
+        - localhost
+      interval: 2s
+      timeout: 10s
+      retries: 15
+  backups:
+    image: itzg/mc-backup
+    depends_on:
+      minecraft:
+        condition: service_healthy
+    environment:
+      RCON_HOST: minecraft
+      CRON_SCHEDULE: '0 0 * * *'
+    volumes:
+      - 'minecraft-data:/data:ro'
+      - 'minecraft-backups:/backups'
