@@ -1,1 +1,9 @@
-Initial Release
+Initial `0.4.0` Release.
+
+- Configured Config Manager
+- Configured Better Compatibility Checker
+- Configured Modpack Update Checker
+- Mod added Durability Tooltip, UI
+- Mod added Item Highlighter, UI
+- Mod added Particle Rain, visual
+- Mod added Storage Drawers, simple small storage
