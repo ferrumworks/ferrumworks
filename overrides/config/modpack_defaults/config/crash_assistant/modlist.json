@@ -61,6 +61,14 @@
     "curseForgeHash": 333293373,
     "modrinthHash": "c851630a411fa287ac64214ba73d1c978d805048"
   },
+  "AttributeFix-Fabric-1.20.1-21.0.5.jar": {
+    "jarName": "AttributeFix-Fabric-1.20.1-21.0.5.jar",
+    "modId": "attributefix",
+    "name": "AttributeFix",
+    "version": "21.0.5",
+    "curseForgeHash": 1297336230,
+    "modrinthHash": "181c94abb434890b4d1422544b8e400b73b6f8c6"
+  },
   "balm-fabric-1.20.1-7.3.39.jar": {
     "jarName": "balm-fabric-1.20.1-7.3.39.jar",
     "modId": "balm",
@@ -749,6 +757,14 @@
     "curseForgeHash": 100426514,
     "modrinthHash": "5acd6bafbdde41d3d6b025772b4eacce5a710e0f"
   },
+  "moonlight-1.20-2.16.34-fabric.jar": {
+    "jarName": "moonlight-1.20-2.16.34-fabric.jar",
+    "modId": "moonlight",
+    "name": "Moonlight",
+    "version": "1.20-2.16.34",
+    "curseForgeHash": 1588226571,
+    "modrinthHash": "cd8fa2b98549ac1ca9915e70c03c4e462c72156b"
+  },
   "moreculling-1.20.1-0.24.5.jar": {
     "jarName": "moreculling-1.20.1-0.24.5.jar",
     "modId": "moreculling",
@@ -805,6 +821,14 @@
     "curseForgeHash": 2829393832,
     "modrinthHash": "cd169ef91788fed7e1025e5d2273d61978898e52"
   },
+  "ranged_weapon_api-1.1.4+1.20.1.jar": {
+    "jarName": "ranged_weapon_api-1.1.4+1.20.1.jar",
+    "modId": "ranged_weapon_api",
+    "name": "RangedWeaponAPI",
+    "version": "1.1.4+1.20.1",
+    "curseForgeHash": 2598830297,
+    "modrinthHash": "0766a20408c19c5abed47784220f9d33fbac22dd"
+  },
   "rechiseled-1.2.5-fabric-mc1.20.1.jar": {
     "jarName": "rechiseled-1.2.5-fabric-mc1.20.1.jar",
     "modId": "rechiseled",
@@ -853,6 +877,14 @@
     "curseForgeHash": 290658613,
     "modrinthHash": "f7ad42c0b82a9ef4af20d0023b941255e2d12a7a"
   },
+  "simplyswords-1.56.0-1.20.1.jar": {
+    "jarName": "simplyswords-1.56.0-1.20.1.jar",
+    "modId": "simplyswords",
+    "name": "Simply Swords",
+    "version": "1.56.0-1.20.1",
+    "curseForgeHash": 2704237102,
+    "modrinthHash": "6243b46a0ce782f6071243cd2a604470aaf38d77"
+  },
   "sodium-fabric-0.5.13+mc1.20.1.jar": {
     "jarName": "sodium-fabric-0.5.13+mc1.20.1.jar",
     "modId": "sodium",
@@ -876,6 +908,14 @@
     "version": "1.0.10",
     "curseForgeHash": 4155215705,
     "modrinthHash": "dc188678ffaceacf6d03a2d693af9a2ac4ed69f5"
+  },
+  "soulslike-weaponry-1.4.9-1.20.1-fabric.jar": {
+    "jarName": "soulslike-weaponry-1.4.9-1.20.1-fabric.jar",
+    "modId": "soulsweapons",
+    "name": "Marium\u0027s Soulslike Weaponry",
+    "version": "1.4.9-1.20.1-fabric",
+    "curseForgeHash": 3562176974,
+    "modrinthHash": "5105ca91e436dae16b544ad2c404d7fb3c55aa6a"
   },
   "spacecatasb-fabric-20.14.0.jar": {
     "jarName": "spacecatasb-fabric-20.14.0.jar",
@@ -932,6 +972,14 @@
     "version": "1.1.21",
     "curseForgeHash": 835230463,
     "modrinthHash": "824c8d015c1f4823ae543c970016d77eea31c52d"
+  },
+  "supplementaries-1.20-3.1.43-fabric.jar": {
+    "jarName": "supplementaries-1.20-3.1.43-fabric.jar",
+    "modId": "supplementaries",
+    "name": "Supplementaries",
+    "version": "1.20-3.1.43",
+    "curseForgeHash": 1955383262,
+    "modrinthHash": "e297cedaf6d64e80579bd6974260ef8759a911c3"
   },
   "TACZ-Refabricated-1.20.1-0.7.0-forge1.1.8-hotfix.jar": {
     "jarName": "TACZ-Refabricated-1.20.1-0.7.0-forge1.1.8-hotfix.jar",

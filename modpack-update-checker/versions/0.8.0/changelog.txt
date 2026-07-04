@@ -1,0 +1,2 @@
+- Mod added `Ranged Weapon API`, `Simply Swords` dependency
+- Mod added `Amendments`, `Supplementaries` dependency
