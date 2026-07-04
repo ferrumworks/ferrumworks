@@ -1,3 +1,5 @@
+<img width="902" height="145" alt="image" src="https://github.com/user-attachments/assets/756b258a-2d8a-483f-a99e-26a725f09b78" />
+
 # Ferrum Works
 
 ### Deployment
