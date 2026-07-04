@@ -1,0 +1,37 @@
+A two-week phase modpack made by a group of friends.
+
+Designed to deliver a stable, consistent vanilla+ experience with carefully selected tech mods. Best enjoyed during relaxed evening game sessions.
+
+### Performance & Visuals
+
+*   Built on the **Fabulously Optimized** performance stack
+*   **Sodium**, **Lithium**, **ModernFix**, **FerriteCore**, **ImmediatelyFast**
+*   **Iris** shaders support
+*   Better rendering, culling, and overall performance
+
+### Engineering & Storage
+
+*   **Create** + **Create Crafts & Additions** + **Copycats+**
+*   **Applied Energistics 2**
+*   **Tom's Simple Storage**
+
+### World & Exploration
+
+*   **Terralith**
+*   **Tectonic**
+*   **Traveler's Backpack**
+*   **Artifacts**
+
+### Building & Utilities
+
+*   **WorldEdit**
+*   **Carry On**
+*   **Vein Mining**
+
+### Quality of Life
+
+*   **EMI** + AE2, Enchanting & Loot integrations
+*   **Jade** + Jade Addons
+*   **Xaero's Minimap** & **World Map**
+*   **Mouse Tweaks**
+*   Ping Wheel, Zoomify, Legendary Tooltips, Item Borders, and many other small improvements.
