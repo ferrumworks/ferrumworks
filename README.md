@@ -7,6 +7,7 @@
 
 ### Release
 Increment version in `config/modpack-update-checker/config.json`  
+Increment version in `config/bcc.json`  
 Copy `options.txt` to `config/modpack_defaults/`  
 Copy `config/` to `config/modpack_defaults/config/`  
 
