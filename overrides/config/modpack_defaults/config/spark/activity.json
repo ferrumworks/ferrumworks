@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "soudasuwa",
+      "uniqueId": "9c480467-8516-4f08-8bbb-17e4538bd789"
+    },
+    "time": 1783157492351,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/oC6dgPthTi"
+    }
+  }
+]

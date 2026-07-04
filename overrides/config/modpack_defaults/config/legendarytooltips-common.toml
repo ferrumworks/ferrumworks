@@ -1,4 +1,3 @@
-
 # Legendary Tooltips Configuration Instructions
 #
 # *** READ THIS FIRST ***
@@ -117,4 +116,3 @@
 		level13_colors = ["auto", "auto", "auto", "auto"]
 		level14_colors = ["auto", "auto", "auto", "auto"]
 		level15_colors = ["auto", "auto", "auto", "auto"]
-

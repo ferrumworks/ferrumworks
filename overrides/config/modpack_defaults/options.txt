@@ -45,7 +45,7 @@ biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["create:dynamic_data","vanilla","fabric","minecraft:supporteatinganimation","file/enchant icons 1.20 v1.3.zip","file/Fire_Rekindled.zip","file/Simple_Click_Universal.zip","continuity:default","continuity:glass_pane_culling_fix","file/Catppuccin Macchiato Blue.zip"]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:mc.delass.ee
 lang:en_us
 soundDevice:""
 chatVisibility:0
@@ -138,6 +138,7 @@ key_key.crawl:key.keyboard.c
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.rotate_menu:key.keyboard.unknown
+key_key.diet.open.desc:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
@@ -150,6 +151,17 @@ key_key.pingwheel.open_settings:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
+key_key.tacz.inspect.desc:key.keyboard.h
+key_key.tacz.reload.desc:key.keyboard.r
+key_key.tacz.shoot.desc:key.mouse.left
+key_key.tacz.interact.desc:key.keyboard.o
+key_key.tacz.fire_select.desc:key.keyboard.g
+key_key.tacz.aim.desc:key.mouse.right
+key_key.tacz.crawl.desc:key.keyboard.c
+key_key.tacz.refit.desc:key.keyboard.z
+key_key.tacz.zoom.desc:key.keyboard.v
+key_key.tacz.melee.desc:key.keyboard.v
+key_key.tacz.open_config.desc:key.keyboard.t
 key_key.toms_storage.open_terminal:key.keyboard.b
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.sort:key.keyboard.unknown
@@ -196,9 +208,9 @@ key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_zoomify.key.zoom:key.mouse.4
 key_zoomify.key.zoom.secondary:key.keyboard.f6
-key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:0.5049668874172185
 soundCategory_music:0.3028169014084507

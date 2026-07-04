@@ -1,11 +1,8 @@
-
 [mod]
 	#Let TreeChop print to the log
 	printDebugInfo = true
 	#Set to false to disable TreeChop without having to uninstall the mod
 	enabled = true
-
-[permissions]
 
 	[permissions.sneakBehavior]
 		canBeNone = true
@@ -95,8 +92,6 @@
 		#Range: 0.0 ~ 10000.0
 		a = 10.0
 
-[compatibility]
-
 	[compatibility.general]
 		#Prevent chopping when right-clicking blocks
 		preventChoppingOnRightClick = false
@@ -147,4 +142,3 @@
 		[compatibility.trees.problematicLeavesTrees]
 			leaves = ["tropicraft:.*_leaves(_.*)?", "betternether:.*_leaves", "regions_unexplored:brimwood_leaves", "alexscaves:.*_branch", "alexscaves:pewen_pines"]
 			logs = ["tropicraft:.*_log(_.*)?", "mysticbiomes:.*_log", "betternether:.*_bark", "betternether:.*_log", "alexscaves:.*_log", "alexscaves:pewen_wood"]
-

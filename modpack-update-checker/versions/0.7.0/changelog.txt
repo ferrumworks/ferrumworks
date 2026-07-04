@@ -1,0 +1,3 @@
+- Mod added `Supplementaries`
+- Mod added `Simply Swords`
+- Mod added `Marium's Soulslike Weaponry`

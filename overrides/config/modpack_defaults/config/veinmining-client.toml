@@ -12,4 +12,3 @@ enableEnchantmentWarnings = true
 enableEnchantmentTooltips = true
 #If enabled, instructions on how to vein mine will appear above the hotbar when switching to enchanted items.
 enableEnchantmentNotifications = false
-

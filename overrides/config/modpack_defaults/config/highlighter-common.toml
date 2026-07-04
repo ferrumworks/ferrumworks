@@ -1,4 +1,3 @@
-
 #Client Configuration
 [client]
 
@@ -16,4 +15,3 @@
 		# The position of new item markers.
 		#Allowed Values: UpperLeft, UpperRight, LowerLeft, LowerRight
 		icon_position = "UpperLeft"
-
