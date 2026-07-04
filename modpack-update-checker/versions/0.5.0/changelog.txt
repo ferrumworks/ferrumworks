@@ -1,6 +1,8 @@
 - Improved default key binds
-- Mod added Advancement Plaques
+- Mod added Advancement Plaques, UI
 - Mods added EMI, EMI Enchanting, EMI Loot
-- Mod added Controlling
-- Mod added Enhanced Celestials
+- Mod added Controlling, keybind search
+- Mod added Enhanced Celestials, gameplay difficulty and playstyle variability
+- Mod added Rechiseled, building blocks
+- Mod added Diet, makes hunger more challenging yet rewarding
 - Resourcepacks added Catppuccin UI
