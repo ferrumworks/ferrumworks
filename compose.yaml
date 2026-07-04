@@ -9,7 +9,6 @@ services:
       - MODPACK_PLATFORM=AUTO_CURSEFORGE
       - 'CF_API_KEY=${CF_API_KEY:?}'
       - CF_SLUG=ferrumworks
-      - 'CF_MODPACK_ZIP=/modpacks/Ferrum Works-0.4.0.zip'
       - MAX_PLAYERS=2147483647
       - MEMORY=16384M
       - 'MOTD=Official Ferrum Works Server'
@@ -26,7 +25,6 @@ services:
       - PVP=false
     volumes:
       - 'minecraft-data:/data'
-      - './modpacks:/modpacks'
     entrypoint:
       - sh
       - '-c'
