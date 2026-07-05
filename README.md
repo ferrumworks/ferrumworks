@@ -13,3 +13,6 @@ Copy `config/` to `config/modpack_defaults/config/`
 
 Create `modpack-update-checker/versions/VERSION/changelog.txt`  
 Add to `versions` in `modpack-update-checker/meta.json`  
+
+Do not include all `config/*` files in the modpack,  
+only `config/modpack_defaults/`. See [Config Manager](https://www.curseforge.com/minecraft/mc-mods/configmanager).
