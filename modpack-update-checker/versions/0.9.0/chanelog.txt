@@ -1,0 +1,1 @@
+- Configured Discord's Rich presence RPC
